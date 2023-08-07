@@ -1,0 +1,5 @@
+Információs válaszok (100 - 199)
+Sikeres válaszok (200 - 299)
+Átirányítások (300 - 399)
+Kliens hibák (400 - 499)
+Szerver hibák (500 - 599)
